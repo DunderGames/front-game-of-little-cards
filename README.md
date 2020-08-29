@@ -1,2 +1,3 @@
 # front-game-of-little-cards
-nada mais que o front do jogo
+nada mais que o front do jogo das cartas
+
